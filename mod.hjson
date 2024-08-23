@@ -1,0 +1,8 @@
+name: ir
+displayName: Items Reforged
+author: Captain Doshik
+description: This mod replaces vanilla sprites with modified versions.
+version: 1
+minGameVersion: 146
+hidden: false
+hideBrowser: false

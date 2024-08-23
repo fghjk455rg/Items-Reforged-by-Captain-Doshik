@@ -1,2 +1,2 @@
-# kap-dosh-ir
- Better items sprites
+# Items Reforget Mod
+ This mod replaces vanilla sprites with modified versions.
