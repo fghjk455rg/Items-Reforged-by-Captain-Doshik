@@ -2,7 +2,5 @@ name: kap-dosh-ir
 displayName: Items Reforged
 author: Captain Doshik
 description: This mod replaces vanilla sprites with modified versions.
-version: 1
+version: 1.0
 minGameVersion: 146
-hidden: false
-hideBrowser: false
