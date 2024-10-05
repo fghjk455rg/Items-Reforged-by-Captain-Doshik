@@ -4,3 +4,4 @@ author: Captain Doshik
 description: This mod replaces vanilla sprites with modified versions.
 version: 1.0
 minGameVersion: 146
+hidden: true
